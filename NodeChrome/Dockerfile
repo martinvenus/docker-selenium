@@ -1,4 +1,4 @@
-FROM selenium/node-base:2.53.0
+FROM selenium/node-base:latest
 MAINTAINER Selenium <selenium-developers@googlegroups.com>
 
 USER root
